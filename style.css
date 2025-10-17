@@ -1,0 +1,17 @@
+body {
+
+background-color: blueviolet;
+color:black
+font-family: "Cormorant Garamond", serif;
+display:flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+
+button{
+    background-color: cadetblue;
+    color:brown;
+    font-family: "Cormorant Garamond", serif;
+}
